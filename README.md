@@ -23,16 +23,20 @@
 ### My Stats
 <hr>
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketparate&show_icons=true&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aniketparate&show_icons=true&count_private=true&theme=react&border=true&bg_color=000000&icon_color=blue" height="210px"/></a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketparate&langs_count=10&layout=compact&theme=react&border=true&bg_color=000000&hide=Jupyter%20Notebook" width="380px"/></a>  
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketparate&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="om jannu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=aniketparate&bg_color=17181B&color=0693E3&line=0DD5DC&point=FFFFFF&border=true" /></a>
 
 <br>
 
-## Streaks
+### Streaks
 <hr>
-<p>
+<p align="center">
 <a href="https://github.com/aniketparate/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aniket's Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketparate&theme=github-dark&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aniket's Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketparate&theme=github-dark&border=white"/>
   </a>
 </p>
