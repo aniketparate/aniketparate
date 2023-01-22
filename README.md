@@ -28,6 +28,8 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="om jannu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=aniketparate&bg_color=17181B&color=0693E3&line=0DD5DC&point=FFFFFF&border=true" /></a>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aniketparate&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br>
 
 ### Streaks
