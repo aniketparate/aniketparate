@@ -25,8 +25,8 @@
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketparate&langs_count=10&layout=compact&theme=react&border=true&bg_color=000000&hide=Jupyter%20Notebook" width="380px"/></a>  
 </p>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="om jannu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=aniketparate&bg_color=17181B&color=0693E3&line=0DD5DC&point=FFFFFF&border=true" /></a>
+<!-- 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="om jannu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=aniketparate&bg_color=17181B&color=0693E3&line=0DD5DC&point=FFFFFF&border=true" /></a> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aniketparate&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
