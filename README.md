@@ -23,11 +23,12 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aniketparate&show_icons=true&count_private=true&theme=react&border=true&bg_color=000000&icon_color=blue" height="210px"/></a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketparate&langs_count=10&layout=compact&theme=react&border=true&bg_color=000000&hide=Jupyter%20Notebook" width="380px"/></a>  
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketparate&langs_count=8&theme=react&border=true" width="380px"/></a>  
 </p>
 <!-- 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="om jannu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=aniketparate&bg_color=17181B&color=0693E3&line=0DD5DC&point=FFFFFF&border=true" /></a> -->
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketparate&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- &layout=compact&theme=react&border=true&bg_color=000000&hide=Jupyter%20Notebook -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aniketparate&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
