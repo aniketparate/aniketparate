@@ -1,4 +1,5 @@
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Myself Aniket Parate</h1>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Aniket Parate</h1>
+<p>An Enthusiastic programmer | Software Development</p>
 
 - 🔭 I’m currently doing an intenship at <a href="https://www.linkedin.com/company/cerelabs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BWPvT12rLSDSWu5mefM45sg%3D%3D">CERE LABS</a>.
 - Currently pursuing education of B.E. IT.
@@ -46,15 +47,8 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aniketparate&show_icons=true&count_private=true&theme=react&border=true&bg_color=000000&icon_color=blue" height="210px"/></a>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketparate&langs_count=5&theme=react&border=true" width="380px"/></a>  
 </p>
-<!-- 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="om jannu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=aniketparate&bg_color=17181B&color=0693E3&line=0DD5DC&point=FFFFFF&border=true" /></a> -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketparate&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- &layout=compact&theme=react&border=true&bg_color=000000&hide=Jupyter%20Notebook -->
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aniketparate&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
- -->
+
 <br>
 
 ### Streaks
