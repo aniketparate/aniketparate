@@ -1,8 +1,9 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Aniket Parate</h1>
 <p>An Enthusiastic programmer | Software Development</p>
 
-- 🔭 I’m currently doing an intenship at <a href="https://www.linkedin.com/company/cerelabs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BWPvT12rLSDSWu5mefM45sg%3D%3D">CERE LABS</a>.
-- Currently pursuing education of B.E. IT.
+<!-- 🔭 I’m currently doing an intenship at <a href="https://www.linkedin.com/company/cerelabs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BWPvT12rLSDSWu5mefM45sg%3D%3D">CERE LABS</a>. -->
+- Currently working at Sportz Interactive.
+- Completed my B.E. IT graduation from Don Bosco Institute of Technology.
 - 📫 How to reach me: aniketvparate@gmail.com
 
 <br>
